@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Merhaba Dünya");
         //küçük büyük harf duyarlılığı vardır.
         //github deneme adımı
+        //ikinci deneme intelij ide github configuration
 
     }
 }
