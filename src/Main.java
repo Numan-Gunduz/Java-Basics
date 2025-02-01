@@ -8,9 +8,10 @@ public class Main {
         System.out.println("Benim ismim ne biliyor musun ? " + name );
 
         int toplam = 0 ;
+        double deger = 4.3d;
+        System.out.println(deger);
         toplam  = a+b;
-        System.out.println("iki sayının toplamı : " + toplam);
-        System.out.println(name+toplam);
+
 
 
     }
@@ -26,3 +27,4 @@ Türkçe karakter kullanımı ;
 **yani buraya kadar sınıf adaları büyük metot adları ise küçük yazılır. Yani Camel Case:)
 
 * */
+
