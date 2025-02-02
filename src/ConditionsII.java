@@ -15,7 +15,7 @@ int sayi = 22 ;
                 break;
 
             default:
-                System.out.println("number is diffrent 3 this reason please check in the give number ");
+                System.out.println("number is diffrent  this reason please check in the give number ");
         }
 
 
