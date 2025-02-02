@@ -1,4 +1,4 @@
-public class TipDonusumleri {
+public class TypeCasting {
     public static void main(String[] args) {
         byte myByte = 50; // -128-128
         short myShort = 2500; //32762 -32762
