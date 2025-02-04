@@ -2,9 +2,9 @@ public class LoopsIIWhileDoWhile {
 
     public static void main(String[] args) {
 int i   = 0;
-        while(i<4)
+        while(i<5)
         {
-            System.out.println("sayi değeri" + i);
+            System.out.println("sayi değeri " + i);
             i++;
 
         }
